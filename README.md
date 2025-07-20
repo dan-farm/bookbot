@@ -11,7 +11,7 @@ This literary automaton is invoked by passing a text file as a command line argu
 Example output:
 ```
 ============ BOOKBOT ============
-Analyzing book found at books/prideandprejudice.txt...
+Analysing book found at books/prideandprejudice.txt...
 ----------- Word Count ----------
 Found 130410 total words
 --------- Character Count -------
